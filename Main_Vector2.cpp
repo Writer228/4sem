@@ -1,5 +1,4 @@
-// ConsoleApplication4.cpp: определяет точку входа для консольного приложения.
-//
+// Main_Vector2.cpp:
 
 
 
