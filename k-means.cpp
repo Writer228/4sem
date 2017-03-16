@@ -122,7 +122,6 @@ int main()
 	
 	auto image = texture.copyToImage();
 	texture.update(image);
-	//sf::Sprite photo(texture);
 	
 	sf::Vector2u photoSize = image.getSize();
 
